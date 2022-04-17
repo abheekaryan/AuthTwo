@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "159649440774",
+    "project_id": "authtwo-32e40",
+    "storage_bucket": "authtwo-32e40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159649440774:android:0a118dcf4d24cee8b20f87",
+        "android_client_info": {
+          "package_name": "com.example.authtwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159649440774-gctt9f5u8i1ugbip1rj83dvegb38mc6q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.authtwo",
+            "certificate_hash": "1e5924b2122d831deace35fb4f01951d54b921df"
+          }
+        },
+        {
+          "client_id": "159649440774-tsacaggjefqmt4csql9jf58ti0iod33c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR_uKopR_888kVHjARC1mUmc66M76769c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159649440774-tsacaggjefqmt4csql9jf58ti0iod33c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
